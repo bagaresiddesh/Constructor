@@ -1,5 +1,6 @@
 ﻿using System;
 using ClassLibrary;
+using ClassStudent;
 
 namespace Class
 {
