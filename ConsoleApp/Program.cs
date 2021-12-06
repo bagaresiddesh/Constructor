@@ -108,7 +108,7 @@ namespace Class
             S2.DisplayName();
             S2.DisplayRollNo();//Extension class function called
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
