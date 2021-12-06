@@ -58,6 +58,7 @@ namespace ClassLibrary
             Console.WriteLine("--------------------------------");
         }
     }
+
     public class Student
     {
         public static string Name;
@@ -80,6 +81,7 @@ namespace ClassLibrary
             Console.WriteLine("Student Name : {0}", Student.Name);
         }
     }
+
     public static class NewStudent //Extension class of student
     {
         public static void DisplayRollNo(this Student S1)
