@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ClassStudent
+namespace StudentClass
 {
     public class Student
     {
@@ -33,4 +33,5 @@ namespace ClassStudent
         }
     }
 }
+
 
